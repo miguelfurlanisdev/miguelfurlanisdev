@@ -6,13 +6,14 @@ Atualmente focado em criar sites, responsivos e funcionais — além de aprimora
 
 ## 🚀 Projetos
 
-[prjCenterFix](https://github.com/miguelfurlanisdev/prjCenterFix) - projeto do site que desenvolvi para a oficina do meu sogro 🚗
+[prjCenterFix](https://github.com/miguelfurlanisdev/prjCenterFix) - 'projeto do site que desenvolvi para a oficina do meu sogro 🚗'
 
 💼 Desenvolvimento de sites
 
 Também desenvolvo sites para empresas e profissionais que querem melhorar sua presença na internet.
 
 🌐 Portfólio: ...
+
 📩 Contatos: 
 - 📧 Email: [miguel25voticoski@gmail.com](mailto:miguel25voticoski@gmail.com)
 - 📱 Telefone: [ +55 (15) 99857-0388](tel:+5515998570388)
