@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Miguel
+# 👋 Olá, eu sou miguelfurlanisdev...
 
 💻 Estudante de Desenvolvimento de Sistemas no SENAI e desenvolvedor web em formação.
 
@@ -10,7 +10,8 @@ Atualmente focado em criar sites, responsivos e funcionais — além de aprimora
 
 [prjCenterFix](https://github.com/miguelfurlanisdev/prjCenterFix) 
 
-💼 Desenvolvimento de sites
+
+## 💼 Desenvolvimento de sites
 
 Também desenvolvo sites para empresas e profissionais que querem melhorar sua presença na internet.
 
