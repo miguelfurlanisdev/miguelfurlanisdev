@@ -2,11 +2,7 @@
 
 💻 Estudante de Desenvolvimento de Sistemas no SENAI e desenvolvedor web em formação.
 
-Atualmente focado em criar sites modernos, responsivos e funcionais — além de aprender cada vez mais sobre desenvolvimento.
-
-🛠️ Tecnologias
-
-HTML CSS JavaScript Python Git GitHub
+Atualmente focado em criar sites, responsivos e funcionais — além de aprimorar cada vez mais sobre desenvolvimento.
 
 ## 🚀 Projetos
 
@@ -18,11 +14,13 @@ Também desenvolvo sites para empresas e profissionais que querem melhorar sua p
 
 🌐 Portfólio: ...
 📩 Contato: 
+- 📧 Email: [miguel25voticoski@gmail.com](mailto:miguel25voticoski@gmail.com)
+- 📱 Telefone: [ +55 (15) 99857-0388](tel:+5515998570388)
 
 ⸻
 
 <div align="center">
 
-Construindo, aprendendo e evoluindo.
+Construindo, aprendendo e aprimorando.
 
 </div>
