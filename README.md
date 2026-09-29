@@ -6,7 +6,7 @@ Atualmente focado em criar sites, responsivos e funcionais — além de aprimora
 
 ## 🚀 Projetos
 
-[prjCenterFix](https://github.com/miguelfurlanisdev/prjCenterFix)
+[prjCenterFix](https://github.com/miguelfurlanisdev/prjCenterFix) - projeto do site que desenvolvi para a oficina do meu sogro 🚗
 
 💼 Desenvolvimento de sites
 
