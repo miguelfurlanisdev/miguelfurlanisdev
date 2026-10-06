@@ -15,16 +15,9 @@ Atualmente focado em criar sites, responsivos e funcionais — além de aprimora
 
 Também desenvolvo sites para empresas e profissionais que querem melhorar sua presença na internet.
 
-🌐 Portfólio: ...
+🌐 Portfólio: [https://miguelfurlanisdev](https://miguelfurlanisdev.netlify.app/)
 
 📩 Contatos: 
 - 📧 Email: [miguel25voticoski@gmail.com](mailto:miguel25voticoski@gmail.com)
 - 📱 Telefone: [+55 (15) 99857-0388](tel:+5515998570388)
-
-⸻
-
-<div align="center">
-
-Construindo, aprendendo e aprimorando.
-
 </div>
