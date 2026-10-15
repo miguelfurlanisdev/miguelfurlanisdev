@@ -8,8 +8,11 @@ Atualmente focado em criar sites, responsivos e funcionais — além de aprimora
 
 > projeto do site que desenvolvi para a oficina do meu sogro 🚗
 
-[prjSiteCenterFix](https://github.com/miguelfurlanisdev/prjSiteCenterFix) 
+[SiteCenterFix](https://centerfixsorocaba.netlify.app)
 
+> Site que desenvolvi para a agência da minha prima 📷
+
+[SiteIZVMidia](https://izvmidia.netlify.app/)
 
 ## 💼 Desenvolvimento de sites
 
