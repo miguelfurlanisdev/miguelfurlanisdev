@@ -20,4 +20,5 @@ Também desenvolvo sites para empresas e profissionais que querem melhorar sua p
 📩 Contatos: 
 - 📧 Email: [miguel25voticoski@gmail.com](mailto:miguel25voticoski@gmail.com)
 - 📱 Telefone: [+55 (15) 99857-0388](tel:+5515998570388)
+- ☎️ LinkedIn: [linkedin.com/in/miguel-voticoski](https://www.linkedin.com/in/miguel-voticoski-543b29403/)
 </div>
