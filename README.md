@@ -25,6 +25,6 @@ Também desenvolvo sites para empresas e profissionais que querem melhorar sua p
 - 📱 Telefone: [+55 (15) 99857-0388](tel:+5515998570388)
 - ☎️ LinkedIn: [linkedin.com/in/miguel-voticoski](https://www.linkedin.com/in/miguel-voticoski-543b29403/)
 
-<img width="480" height="480" alt="NeyGIF" src="https://github.com/user-attachments/assets/2527118b-53df-4ea1-ab11-308ebc998e5f" />
+<img width="380" height="380" align="center" alt="NeyGIF" src="https://github.com/user-attachments/assets/2527118b-53df-4ea1-ab11-308ebc998e5f" />
 
 </div>
