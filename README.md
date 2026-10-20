@@ -24,7 +24,7 @@ Também desenvolvo sites para empresas e profissionais que querem melhorar sua p
 - 📧 Email: [miguel25voticoski@gmail.com](mailto:miguel25voticoski@gmail.com)
 - 📱 Telefone: [+55 (15) 99857-0388](tel:+5515998570388)
 - ☎️ LinkedIn: [linkedin.com/in/miguel-voticoski](https://www.linkedin.com/in/miguel-voticoski-543b29403/)
-
-<img width="380" height="380" align="center" alt="NeyGIF" src="https://github.com/user-attachments/assets/2527118b-53df-4ea1-ab11-308ebc998e5f" />
-
+<div align="center">
+<img width="380" height="380" alt="NeyGIF" src="https://github.com/user-attachments/assets/2527118b-53df-4ea1-ab11-308ebc998e5f" />
+</div>
 </div>
