@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou miguelfurlanisdev...
+# Olá, eu sou miguelfurlanisdev
 
 💻 Estudante de Desenvolvimento de Sistemas no SENAI e desenvolvedor web em formação.
 
