@@ -36,7 +36,7 @@ Focado na criação de sites **responsivos, modernos e funcionais**. Apaixonado 
 
 ---
 
-## 🚘 📷 Projetos em Destaque
+## 📁 Projetos em Destaque
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
