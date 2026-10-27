@@ -37,8 +37,9 @@ Focado na criação de sites **responsivos, modernos e funcionais**. Apaixonado 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| 🚗 **Site Center Fix** | Landing page desenvolvida para a oficina mecânica Center Fix em Sorocaba. | [Acessar Project](https://centerfixsorocaba.netlify.app) |
-| 📷 **Site IZV Mídia** | Website criado para agência de mídia e fotografia. | [Acessar Project](https://izvmidia.netlify.app/) |
+| 🚗 **Site Center Fix** | Landing page desenvolvida para a oficina mecânica Center Fix em Sorocaba. | [Acessar Projeto](https://centerfixsorocaba.netlify.app) |
+| 📷 **Site IZV Mídia** | Website criado para agência de mídia e fotografia. | [Acessar Projeto](https://izvmidia.netlify.app/) |
+| 📄 **Meu Portfólio** | Meu próprio Portfólio. | [Acessar Projeto](https://miguelfurlanisdev.netlify.app/) |
 
 ---
 
