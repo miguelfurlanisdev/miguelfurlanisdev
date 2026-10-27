@@ -51,10 +51,6 @@ Focado na criação de sites **responsivos, modernos e funcionais**. Apaixonado 
 
 <br />
 
-<div align="left">
-  <img width="350" height="350" alt="NeyGIF" src="https://github.com/user-attachments/assets/2527118b-53df-4ea1-ab11-308ebc998e5f" />
-</div>
-
 ---
 
 ## 📬 Entre em Contato
