@@ -49,7 +49,7 @@ Focado na criação de sites **responsivos, modernos e funcionais**. Apaixonado 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelfurlanisdev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelfurlanisdev&show_icons=true&theme=tokyonight&hide_border=true&cache=1" alt="Estatísticas do GitHub" height="150" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfurlanisdev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="150" />
 </div>
